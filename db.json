@@ -1,1 +1,22 @@
-[{"imageUrl":".","title":"title1"},{"imageUrl":".","title":"title2"},{"imageUrl":".","title":"title3"},{"imageUrl":".","title":"title4"},{"imageUrl":".","title":"title5"},{"imageUrl":".","title":"title6"}]
+[
+    {
+      "id": 1,
+      "title": "Avengers",
+      "img": "https://ic.pics.livejournal.com/bigfatcat19/68916090/895636/895636_original.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Avatar",
+      "img": "https://images-na.ssl-images-amazon.com/images/I/51py8Wr0SNL.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Shawshank redemption",
+      "img": "https://media1.giphy.com/media/126XZOZ4xUt0NG/giphy.gif"
+    },
+    {
+      "id": 4,
+      "title": "The Green Mile",
+      "img": "https://images-na.ssl-images-amazon.com/image222s/I/51py8Wr0SNL.jpg"
+    }
+  ]
